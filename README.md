@@ -1,4 +1,4 @@
-<h1 align="center" font-style="">Hi 👋, I'm Victor de Sousa Alencar</h1>
+<h1 align="center" font-style="">Hi, I'm Victor de Sousa Alencar</h1>
 <h3 align="center">A frontend developer from Brazil.</h3>
  <p align="center">
   <a href="https://skillicons.dev">
