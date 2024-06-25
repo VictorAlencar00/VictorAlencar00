@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Brazil.</h3>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,tailwindcss,angular,typescript" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,react,tailwindcss,angular,typescript,java,spring" height="40"/>
   </a>
 </p>
 
