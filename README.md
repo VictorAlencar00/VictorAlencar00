@@ -16,10 +16,12 @@
   </p>
 <!--     <br> -->
   <h3>Technologies I'm learning:</h3>
-<p>
- <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="40" alt="Backend and Tools Skills"/>
-</p>
-
+  <p>
+   <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,bash,linux" height="40" alt="Backend and Tools Skills"/>
+  </p>     
+  <em>
+    <small>Basic Knowledge in: Networking, Virtualization & Server Management</small>
+  </em>
 </div>
 
 ---
