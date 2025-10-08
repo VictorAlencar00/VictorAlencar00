@@ -11,16 +11,13 @@
 
 <div align="center">
   <h3>Technologies I use the most:</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,git,html,css,tailwindcss,sass" height="40" alt="Frontend Skills"/>
-  </p>
-<!--     <br> -->
-  <h3>Technologies I'm learning:</h3>
-  <p>
-   <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,bash,linux" height="40" alt="Backend and Tools Skills"/>
-  </p>     
+ <p>
+    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass,tailwindcss" height="40" alt="Frontend Tech Stack"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,linux,bash,git" height="40" alt="Backend & DevOps Tech Stack"/>
+  </p>   
   <em>
-    <small>Basic Knowledge in: Networking, Virtualization & Server Management</small>
+    <small>Knowledge in: Networking, Virtualization & Server Management</small>
   </em>
 </div>
 
