@@ -24,9 +24,9 @@
 ---
 
 <div align="center">
-  <h3>My GitHub statistics</h3>
+  <!-- <h3>My GitHub statistics</h3> -->
   <a href="https://github.com/VictorAlencar00">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorAlencar00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorAlencar00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlencar00&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
