@@ -11,11 +11,13 @@
 
 <div align="center">
   <h3>Technologies I use the most:</h3>
- <p>
-    <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,sass,tailwindcss" height="40" alt="Frontend Tech Stack"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,linux,bash,git" height="40" alt="Backend & DevOps Tech Stack"/>
-  </p>   
+<p>
+    <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular"/>&nbsp;
+    <img src="https://github.com/ionic-team/ionic-framework/blob/main/.github/assets/logo.png?raw=true" height="40" width="38" alt="Ionic" />&nbsp;
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,sass,tailwindcss" height="40" alt="Frontend Tech Stack"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,linux,bash,git" height="40" alt="Backend & DevOps Tech Stack"/>
+</p> 
   <em>
     <small>Knowledge in: Networking, Virtualization & Server Management</small>
   </em>
